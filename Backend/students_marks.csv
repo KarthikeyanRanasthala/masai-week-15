@@ -1,0 +1,7 @@
+uid,name,grade,section,exam_type,english,hindi,maths,science,social,performance,percentage
+1,Karthikeyan,3,B,Annual,89,85,94,99,81,Excellent,89.6
+2,Harshit,10,A,Quarterly,100,100,100,60,70,Excellent,86.0
+4,Sachin,10,E,Annual,100,100,100,60,70,Excellent,86.0
+5,Harika,3,C,Half-Yearly,100,100,100,60,70,Excellent,86.0
+6,Akira,3,C,Annual,100,100,100,60,70,Excellent,86.0
+7,Nikhil,7,B,Quarterly,20,21,35,40,20,Needs To Improve,27.2
